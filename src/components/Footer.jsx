@@ -13,7 +13,7 @@ const Footer = () => {
         </p>
       </div>
 
-      <div className="flex justify-evenly px-[2%] ">
+      <div className="flex max-md:items-center max-md:flex-col max-md:space-y-6 justify-evenly px-[2%] ">
         <FooterBlock imgUrl={"motionarteffect-img9"} heading={"Light Weight"} content={"Motion Art for Elementor is designed to be lightweight."} />
         <FooterBlock imgUrl={"motionarteffect-img6"} heading={"100% Responsive"} content={"Create a consistent visual experience across all devices."} />
         <FooterBlock imgUrl={"motionarteffect-img7"} heading={"User Friendly Interface"} content={"Ensure a smooth experience for both applicants and administrators."} />
