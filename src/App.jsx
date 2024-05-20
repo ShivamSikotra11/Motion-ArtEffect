@@ -7,7 +7,7 @@ import DesignSection from "./components/DesignSection";
 import SupportSection from "./components/SupportSection";
 import Footer from "./components/Footer";
 import CopyRight from "./components/CopyRight";
-import WebGLAnimation from "./components/WebGLAnimation";
+
 
 const App = () => {
   return (
